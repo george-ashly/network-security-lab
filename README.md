@@ -1,4 +1,4 @@
-# Network Security Lab 🔐
+# Network Security Lab 
 
 ## Overview
 A simulated enterprise network built in Cisco Packet Tracer, demonstrating 
@@ -15,9 +15,9 @@ network segmentation, inter-VLAN routing, and access control policies.
 | 30 | Guest | 192.168.30.0/24 | Guest access |
 
 ## Security Rules (ACL)
-- Guest cannot access HR resources ❌
-- Guest can access IT resources ✅
-- HR and IT can communicate freely ✅
+- Guest cannot access HR resources 
+- Guest can access IT resources 
+- HR and IT can communicate freely 
 
 ## What I learned
 - How to segment a network using VLANs on a Cisco multilayer switch
@@ -30,5 +30,5 @@ network segmentation, inter-VLAN routing, and access control policies.
 - Cisco 3650 Multilayer Switch
 - Cisco CLI commands
 
-## ⚠️ Note
+## Note
 Built in Cisco Packet Tracer for educational purposes only.
