@@ -5,7 +5,7 @@ A simulated enterprise network built in Cisco Packet Tracer, demonstrating
 network segmentation, inter-VLAN routing, and access control policies.
 
 ## Network Design
-![Network Topology](topology.png)
+(topology.png)
 
 ## VLANs
 | VLAN | Name | Subnet | Purpose |
